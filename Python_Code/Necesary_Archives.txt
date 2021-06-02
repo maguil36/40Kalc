@@ -1,0 +1,5 @@
+# Program will not run unless python 3 is installed with the following archives:
+## statistics
+## numpy
+## random
+## tkinter
